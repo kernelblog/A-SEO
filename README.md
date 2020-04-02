@@ -8,7 +8,7 @@ A+SEO Seo ayarı yapmak için kullanılabilecek gelişmiş bir araçtır.
 `sudo sh kur.sh`
  
 ## Windows Versiyon
-Yukarıdaki kurulum Linux içindir. Windows için program derlenmiş bir şekilde sunulmaktadır. Windows dizininden indirebilirsiniz.
+Yukarıdaki kurulum Linux içindir. Windows için program derlenmiş bir şekilde sunulmaktadır. http://felis.kernelblog.org/aseo/A+SEO.rar bu adres üzerinden indirebilirsiniz.
 
 ## Proje Websitesi
 https://kernelblog.org
