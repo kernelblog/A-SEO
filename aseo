@@ -1,0 +1,7 @@
+EXEC_ROOT="/usr"
+if [ $(echo $PREFIX | wc -c) -gt 2 ]
+then
+	EXEC_ROOT=$PREFIX
+fi
+
+python3 $EXEC_ROOT/share/aseo/aseo.py
