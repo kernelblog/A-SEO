@@ -38,7 +38,7 @@ fi
 mkdir $SETUP_ROOT/share/aseo 2>&1
 cp aseo $SETUP_ROOT/bin/
 cp *.py $SETUP_ROOT/share/aseo/
-cp Kernelblog.jpg $SETUP_ROOT/share/aseo/
+cp KernelBlog.jpg $SETUP_ROOT/share/aseo/
 cp kb_b.jpg $SETUP_ROOT/share/aseo/
 chmod 755 $SETUP_ROOT/bin/aseo
 chmod 755 $SETUP_ROOT/share/aseo/*
